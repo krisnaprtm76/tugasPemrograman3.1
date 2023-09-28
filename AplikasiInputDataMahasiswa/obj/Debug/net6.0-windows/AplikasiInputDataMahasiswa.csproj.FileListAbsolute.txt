@@ -1,0 +1,17 @@
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\net6.0-windows\AplikasiInputDataMahasiswa.exe
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\net6.0-windows\AplikasiInputDataMahasiswa.deps.json
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\net6.0-windows\AplikasiInputDataMahasiswa.runtimeconfig.json
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\net6.0-windows\AplikasiInputDataMahasiswa.dll
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\bin\Debug\net6.0-windows\AplikasiInputDataMahasiswa.pdb
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.csproj.AssemblyReference.cache
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.Form1.resources
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.AssemblyInfoInputs.cache
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.AssemblyInfo.cs
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.dll
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\refint\AplikasiInputDataMahasiswa.dll
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.pdb
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\AplikasiInputDataMahasiswa.genruntimeconfig.cache
+E:\Pemro-lanjut\Pertemuan4\AplikasiInputDataMahasiswa\AplikasiInputDataMahasiswa\obj\Debug\net6.0-windows\ref\AplikasiInputDataMahasiswa.dll
